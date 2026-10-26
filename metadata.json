@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Dhamaka 3D: Real Bangladesh",
+  "description": "An immersive 3D open-city driving game set in vibrant Dhaka, Bangladesh featuring iconic green CNGs, colorful local buses, cycle rickshaws, lively traffic, Bengali signboards, and realistic driving physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
